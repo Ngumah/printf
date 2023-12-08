@@ -1,0 +1,1 @@
+This project is aimed at building customized version of the printf function it will make use of string formating, memory allocation, debugging and many other aspects of the C programming language and its main at depening understanding of the programming languag
